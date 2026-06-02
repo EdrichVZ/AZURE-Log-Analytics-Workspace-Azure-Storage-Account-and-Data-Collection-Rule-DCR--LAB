@@ -4,7 +4,7 @@ Deploying a virtual machine, creating a Log Analytics Workspace, configuring an 
 ##Overview:
 Organizations require centralized monitoring to detect security threats, investigate incidents, and maintain system performance. In this lab, I deployed Azure resources that support centralized monitoring and configured a Data Collection Rule to gather performance counters such as CPU, memory, disk, and network metrics from an Azure virtual machine. The collected data was sent to a Log Analytics Workspace where it can be queried, analyzed, and used by security solutions such as Azure Monitor and Microsoft Sentinel.
 
-##Objectives:
+##Objectives(Completed):
 - Task 1: Deploy an Azure virtual machine
 - Task 2: Create a Log Analytics workspace
 - Task 3: Create an Azure storage account
